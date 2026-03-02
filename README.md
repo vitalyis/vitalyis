@@ -1,10 +1,6 @@
-# vitaly
-
 building things that save me from myself
 
----
-
-## cooking now 🚧
+cooking now 🚧
 
 **QuickCal** — capture multiple calendar events in one shot. AI-scheduled, zero-bullshit layer.
 
