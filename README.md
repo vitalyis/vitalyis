@@ -4,10 +4,12 @@ building things that save me from myself / cooking now 🚧
 - **BitMo** — helper tool that does accounting for your Bit transfers. money comes in. money counted. nobody cries.
 - **2026 Dashboard** — productivity next. internal planning tool that brings on alignment.
 
----
+https://vitalyis.io/#a
+### &nbsp;
 
 *find me: [twitter.com/vit_alee](https://twitter.com/vit_alee)*
 
----
+https://vitalyis.io/#b
+### &nbsp;
 
 **Hire me to deploy OpenClaw for you - agentic ops, zero friction, immediate leverage. 🦀*
