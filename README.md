@@ -7,3 +7,7 @@ building things that save me from myself / cooking now 🚧
 ---
 
 *find me: [twitter.com/vit_alee](https://twitter.com/vit_alee)*
+
+---
+
+**Hire me to deploy OpenClaw for you - agentic ops, zero friction, immediate leverage. 🦀*
